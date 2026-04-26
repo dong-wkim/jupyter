@@ -1,5 +1,7 @@
 ### update
 
+Update test for classic deployment
+
 
 # JupyterLite Demo
 
